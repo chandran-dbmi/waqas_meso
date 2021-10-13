@@ -23,3 +23,12 @@ The data for this project can be found on Bridges2. The data folders for DNA-Seq
 | CNV Denoised CR  |  40   |   .tsv   |
 | CNV Modeled    |  500   |   .png   |
 | CNV Allelic counts    |  20   |   .vcf  |
+
+### RNA-Seq files summary
+| File | Number of files| File type|
+| -------- | -------- | -------- |
+| Raw Fastq     |  64   |  .fastq    |
+| Trim Fastq     |  64   |  .fastq    |
+| BAMs     |  32   |   .bam   |
+| Splice Junctions     |  32   |   .tsv   |
+| Counts | 32 | .ct.short.txt |
